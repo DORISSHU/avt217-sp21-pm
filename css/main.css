@@ -4,7 +4,7 @@ body{
 }
 h1{
   color: rgb(139, 131, 134);
-  margin-left: 770px;
+  margin-left: 750px;
   font-family: serif;
   font-size: 40px;
 }
@@ -12,13 +12,13 @@ h2{
   color: rgb(139, 131, 134);
   margin-top: 50px;
   font-family: serif;
-  margin-left: 770px;
+  margin-left: 840px;
 }
 ul li{
   color: rgb(139, 131, 134);
   margin-top: 10px;
   font-family: serif;
-  margin-left: 770px;
+  margin-left: 800px;
 }
 a{
   color: rgb(205, 145, 158);
