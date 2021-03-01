@@ -1,0 +1,19 @@
+body{
+  background-color: rgb(245, 245, 245);
+  margin-top: 50px;
+  margin-left: 200px;
+  margin-right: 200px;
+  color: rgb(139, 125, 123);
+  font-family: serif;
+}
+
+h1{
+  text-align: center;
+}
+h4{
+  text-align: center;
+}
+
+.listTitle{
+  text-decoration: underline;
+}
