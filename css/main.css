@@ -1,10 +1,12 @@
 body{
   background-color: rgb(245, 245, 245);
   margin-top: 50px;
+  text-align: center;
+  overflow: hidden;
 }
 h1{
   color: rgb(139, 131, 134);
-  margin-left: 750px;
+  margin-left: 50px;
   font-family: serif;
   font-size: 40px;
 }
@@ -12,13 +14,15 @@ h2{
   color: rgb(139, 131, 134);
   margin-top: 50px;
   font-family: serif;
-  margin-left: 840px;
+  margin-left: 50px;
 }
 ul li{
   color: rgb(139, 131, 134);
   margin-top: 10px;
   font-family: serif;
-  margin-left: 800px;
+  padding: 5px 5px 5px 5px;
+  display: flex;
+  justify-content: center;
 }
 a{
   color: rgb(205, 145, 158);
