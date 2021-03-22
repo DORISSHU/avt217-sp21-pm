@@ -1,0 +1,154 @@
+.circle1 {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(30, 144, 255);
+  border-radius: 50%;
+  float: left;
+  opacity: .5;
+  margin: -10px;
+}
+
+.circle2 {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(65, 105, 225);
+  border-radius: 50%;
+  float: left;
+  opacity: .5;
+  margin: -10px;
+}
+
+.circle3 {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(132, 112, 255);
+  border-radius: 50%;
+  float: left;
+  opacity: .5;
+  margin: -10px;
+}
+
+.circle4 {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  float: left;
+  opacity: .5;
+  margin: -20px;
+  border: 5px solid black;
+}
+
+.triangle1 {
+      width: 0;
+      height: 0;
+      border-top: 200px solid green;
+      border-left: 200px solid transparent;
+      opacity: .5;
+      float: left;
+      margin: -10px;
+}
+
+.triangle2 {
+      width: 0;
+      height: 0;
+      border-top: 200px solid transparent;
+      border-left: 200px solid blue;
+      opacity: .5;
+      float: left;
+      margin: -10px;
+}
+
+.triangle3 {
+      width: 300;
+      height: 300;
+      opacity: .5;
+      float: left;
+      margin: -20px;
+      border: 5px solid black;
+}
+
+.square1 {
+  width: 200px;
+  height: 200px;
+  background: red;
+  opacity: .5;
+  float: left;
+  margin: -10px;
+}
+
+.square2 {
+  width: 200px;
+  height: 200px;
+  background: #8B658B;
+  opacity: .5;
+  float: left;
+  margin: -10px;
+  transform: rotate(45deg);
+}
+
+.square3 {
+  width: 200px;
+  height: 200px;
+  background: #FFC1C1;
+  opacity: .5;
+  float: left;
+  margin: -10px;
+  transform: rotate(45deg);
+}
+
+.rectangle1 {
+  width: 200px;
+  height: 100px;
+  background: #483D8B;
+  opacity: .5;
+  float: left;
+  margin: 10px;
+  transform: rotate(45deg);
+}
+.rectangle2 {
+  width: 200px;
+  height: 100px;
+  background: #FFC1C1;
+  opacity: .5;
+  float: left;
+  margin: 10px;
+  transform: rotate(45deg);
+}
+
+.rectangle3 {
+  width: 1000px;
+  height: 20px;
+  background: #79CDCD;
+  opacity: .5;
+  float: left;
+  margin: 10px;
+  transform: rotate(45deg);
+}
+
+.rectangle4 {
+  width: 1000px;
+  height: 20px;
+  background: #FFEC8B;
+  opacity: .5;
+  float: left;
+  margin: 30px;
+  transform: rotate(45deg);
+}
+
+.rectangle5 {
+  width: 1000px;
+  height: 20px;
+  background: #FF7256;
+  opacity: .5;
+  float: left;
+  margin: 30px;
+  transform: rotate(135deg);
+}
+
+div {
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin: 10px;
+  opacity: .8;
+}
