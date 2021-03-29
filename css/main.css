@@ -1,0 +1,58 @@
+body{
+  background-color: rgb(245, 245, 245);
+  margin-top: 50px;
+  text-align: center;
+  overflow: hidden;
+}
+
+header{
+  width: 75vw;
+  margin: 25px auto;
+  border: 3px solid rgb(205, 183, 181);
+}
+
+main{
+  width: 75vw;
+  margin: 25px auto;
+}
+
+.col{
+  width: 50%;
+  float: left;
+}
+
+h1{
+  color: rgb(139, 131, 134);
+  margin-left: 50px;
+  font-family: serif;
+  font-size: 40px;
+}
+h2{
+  color: rgb(139, 131, 134);
+  margin-top: 50px;
+  font-family: serif;
+  margin-left: 50px;
+}
+ul li{
+  color: rgb(139, 131, 134);
+  margin-top: 10px;
+  font-family: serif;
+  padding: 5px 5px 5px 5px;
+  display: flex;
+  justify-content: center;
+}
+a{
+  color: rgb(205, 145, 158);
+}
+
+a:hover{
+  color: rgb(205, 183, 181);
+}
+
+/****** media queries ******/
+@media screen and (max-width: 800px){
+  body{
+    background-color: #FFFAFA;
+    width: 100%;
+    margin-bottom: 50px;
+  }
