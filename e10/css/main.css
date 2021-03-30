@@ -1,0 +1,153 @@
+.redSquare {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  float: left;
+}
+.whiteSquare {
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  float: left;
+}
+.board {
+  width: 800px;
+  margin: 50px auto;
+  display: flow-root;
+}
+
+.cols {
+  width: 620px;
+  margin: 50px auto;
+  display: flow-root;
+}
+.topCol {
+  width: 620px;
+  height: 80px;
+  background-color: red;
+  float: left;
+}
+.secondCol {
+  width: 620px;
+  height: 20px;
+  background-color: red;
+  border-top: solid 10px white;
+  float: left;
+}
+.leftCol {
+  width: 200px;
+  height: 500px;
+  background-color: red;
+  border-top: solid 10px white;
+  border-right: solid 10px white;
+  float: left;
+}
+.midCol {
+  width: 200px;
+  height: 500px;
+  background-color: red;
+  border-top: solid 10px white;
+  float: left;
+}
+.rightCol {
+  width: 200px;
+  height: 500px;
+  background-color: red;
+  border-top: solid 10px white;
+  border-left: solid 10px white;
+  float: left;
+}
+.bottomCol {
+  width: 620px;
+  height: 80px;
+  background-color: red;
+  border-top: solid 10px white;
+  float: left;
+}
+
+.blogs {
+  width: 690px;
+  display: flow-root;
+  margin: 25px;
+}
+.topBlog {
+  width: 690px;
+  height: 130px;
+  background-color: red;
+  float: left;
+}
+.bigBlog {
+  width: 550px;
+  height: 350px;
+  background-color: red;
+  border-top: solid 100px white;
+  border-right: solid 10px white;
+  float: left;
+}
+.rightBlog {
+  width: 130px;
+  height: 180px;
+  background-color: red;
+  border-top: solid 100px white;
+  float: left;
+}
+.bottomBlog {
+  width: 550px;
+  height: 50px;
+  background-color: red;
+  border-top: solid 10px white;
+  float: left;
+}
+
+.court {
+  width: 700px;
+  display: flow-root;
+  margin: 20px;
+}
+.midSquare {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  border-right: solid 2px white;
+  border-bottom: solid 2px white;
+  float: left;
+}
+.topRect {
+  width: 402px;
+  height: 100px;
+  background-color: red;
+  border-right: solid 2px white;
+  border-bottom: solid 2px white;
+  float: left;
+}
+.bottomRect {
+  width: 402px;
+  height: 100px;
+  background-color: red;
+  border-right: solid 2px white;
+  float: left;
+}
+.leftRect {
+  width: 100px;
+  height: 302px;
+  background-color: red;
+  border-right: solid 2px white;
+  border-bottom: solid 2px white;
+  float: left;
+}
+.rightRect1 {
+  width: 100px;
+  height: 302px;
+  background-color: red;
+  margin-top: -102px;
+  border-bottom: solid 2px white;
+  float: left;
+}
+.rightRect2 {
+  width: 100px;
+  height: 302px;
+  background-color: red;
+  margin-top: -202px;
+  border-bottom: solid 2px white;
+  float: left;
+}
